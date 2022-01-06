@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ivanlim0411
+- 👀 I’m interested in hardware design and firmware.
+- 🌱 I’m currently learning c++, java, altium designer
+- 📫 How to reach me e-mail: limzhenyu0411@gmail.com, i2lim@uwaterloo.ca
